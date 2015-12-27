@@ -9,11 +9,13 @@ To evaluate open source tool [Hupa](http://james.apache.org/hupa/index.html), we
 - EclipseHupaR1684702_J2
 - EclipseHupaR1684702_J3
 - EclipseHupaR1684702_J4
+- 
 These Hupa versions are available as Eclipse-plugin.
 
 If you do not want to [build Hupa from source](http://james.apache.org/hupa/building.html), you can use a precompiled version which we have used in our evaluation:
 - EclipseHupaR1580208
 - EclipseHupaR1684470
 - EclipseHupaR1684702
+
 They are available for download in this directory. Besides, you will find a instrumented version of Hupa in instrumented/EclipseHupaR1684470.
 

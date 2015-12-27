@@ -3,20 +3,30 @@
 <span style="font-variant: small-caps">GWTTestCaseSelection</span> compares two web applications (created with Google Web Toolkit) in order to detect code modifications. Based on these code modifications, GWTTestCaseSelection tries to find a subset of test cases that has to be rerun. 
 
 ## Requirements
-In order to run <span style="font-variant: small-caps">GWTTestCaseSelection</span>, you need to install a version of Eclipse. Besides, you need a MySQL server. If you do not have already installed a MySQL server, we recommend [XAMPP](https://www.apachefriends.org/de/index.html) (for all OS) or [WAMPP](http://www.wampserver.com/en/) (for Windows). 
-If you want to check out and build Hupa from source, you will need Maven. Please follow the instructions on the [Hupa website](http://james.apache.org/hupa/building.html). Alternatively, you can use precompiled versions of Hupa if you do not want to build Hupa from source. The precompiled versions are available for download as Eclipse-project in the ['Hupa-Versions'](../Hupa-Versions/) directory. 
+*Necessary:*
+- Eclipse
+- MySQL
+
+*Optional:*
+- Maven
+- Hupa source files to build the web application from scratch
+
+*Details:*
+In order to run <span style="font-variant: small-caps">GWTTestCaseSelection</span>, you need to install a version of [Eclipse](https://eclipse.org/). Besides, you need MySQL. If you do not have already installed MySQL, we recommend [XAMPP](https://www.apachefriends.org/de/index.html) (for all OS) or [WAMPP](http://www.wampserver.com/en/) (for Windows). 
+If you want to check out and build Hupa from source, you will need [Maven](https://maven.apache.org/). Please follow the instructions on the [Hupa website](http://james.apache.org/hupa/building.html). Alternatively, you can use precompiled versions of Hupa if you do not want to build Hupa from scratch. The precompiled versions are available for download as Eclipse-project in the ['Hupa-Versions'](../Hupa-Versions/) directory. 
 
 
 ## Install <span style="font-variant: small-caps">GWTTestCaseSelection</span>
 Clone this repository. You will find the <span style="font-variant: small-caps">GWTTestCaseSelection</span> plugin for Eclipse in this directory. Install the plugin in Eclipse: Select Menu 'Help' -> Install New Software'. Click on 'Add', fill in a name and the path to <span style="font-variant: small-caps">GWTTestCaseSelection</span>. Please note, it is an Archive-file. Deselect the option 'Group items per category'. Follow the Eclipse-Installation process. Afterwards, select in the menu 'Window' -> 'Show View' -> 'Other' -> '<span style="font-variant: small-caps">GWTTestCaseSelection</span>'.
+
 If you want to do a quick analysis without doing the whole logging process, you can use one of the logged traces which we have used in our evaluation. You will find them in the [webtests](../webtests/) directory as MySQL-dumps.
 
 
 ## Using <span style="font-variant: small-caps">GWTTestCaseSelection</span> - Quick analysis procedure
 1. Click in <span style="font-variant: small-caps">GWTTestCaseSelection</span> on the Settings-icon. Select the projects you want to analyze. For example, use as new project P' the project 'EclispeHupaR1684702' in the ['Hupa-Versions'](../Hupa-Versions/) directory (please note the README-file in this directory). Select the option 'Individual choice' to use a previous version that is located somewhere on your local hard drive. For example, select the project 'EclipseHupaR1684470' in the ['Hupa-Versions'](../Hupa-Versions/) directory (we will use this pair of versions as running example). We have used in our analysis Expression Star as instumentation level. Select the analysis precision level and the lookahead. If you want to use the heuristics, check 'Use heuristics'. Click OK.
-2. Make sure the MySQL-dump 'R1684470.sql' is available in the MySQL server.
+2. Make sure the MySQL-dump 'R1684470.sql' is available.
 3. Analyze the projects P and P'. Start the creation of the EJIGs and the comparison by clicking on the green play button.
-4. Look at the (filtered) results in the table or check the (complete) results in the database 'gwt_test_case_selection'. Click on one of the code modifications to see the affected test cases.
+4. Look at the (filtered) results in the table or check the (complete) results in the database 'gwt_test_case_selection'. (*PLEASE NOTE: The results table in the Eclipe plug-in shows code modifications that affect at least one test case. Code changes that do not affect any test cases are not listed as they are not relevant in the test case selection process! To see all code modifications, please look at the database.*) Click on one of the code modifications to see the affected test cases.
 
 
 ## Using <span style="font-variant: small-caps">GWTTestCaseSelection</span> - Full analysis procedure
@@ -32,7 +42,7 @@ Let P' be the current working copy of an Eclipse project and let P be the previo
 
 ## FAQ's
 
-1. 	java.lang.ClassCastException: org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart cannot be cast to org.eclipse.ui.texteditor.ITextEditor
+1. 	`java.lang.ClassCastException: org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart cannot be cast to org.eclipse.ui.texteditor.ITextEditor`
 Please ensure that a java-file is opened in the editor. 
 Close the view <span style="font-variant: small-caps">GWTTestCaseSelection</span> and re-open it (menu Window -> Show view -> Other -> <span style="font-variant: small-caps">GWTTestCaseSelection</span>).
 2. There are no results after an analysis has been re-executed. Instead, an exception window occurred. 

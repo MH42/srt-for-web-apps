@@ -30,9 +30,12 @@ To do this, we have executed an old version of the web application (for example 
 
 ## Running the test suite
 If you want to run the web tests, you will need to download and install [Selenium](http://www.seleniumhq.org/) for Firefox. The Selenium IDE is completely sufficient. 
+
 In order to run the web tests, Selenium requires two JS-scripts. The first one (accountData.js) is available in this directory and contains data used during the tests. The second one - [sideflow](https://github.com/73rhodes/sideflow) - is a flow control extension for Selenium IDE available for download at Github.
+
 After you have downloaded both the tool and the scripts successfully, start Selenium. You will find it in the 'Tools' menu of your Firefox browser. Navigate to 'Options' -> 'Options…'. In the 'General' tab, add in 'Selenium core extensions' the path that points to the 'Sideflow'-script. Insert the path to accountData.js in 'Selenium IDE extensions'.
 
 ## Logged CIDs
-If you don't want to run an instrumented version of Hupa in order to get the corresponding CIDs, you can use or CIDs which we have used during the evaluation. The CIDs for the revisions 1684702 and 1684470 are available as MySQL-dump-files (R1684702.sql and R1684470.sql) in this directory. 
-Important note: If you want to compare revision 1684702 with revision 1684470, you will have to load 1684470.sql in your MySQL database.
+If you don't want to run an instrumented version of Hupa in order to get the corresponding CIDs, you can use our CIDs which we have used during the evaluation. The CIDs for the revisions 1684702 and 1684470 are available as MySQL-dump-files (R1684702.sql and R1684470.sql) in this directory. 
+
+*Important note:* If you want to compare revision 1684702 with revision 1684470, you will have to load 1684470.sql in your MySQL database.

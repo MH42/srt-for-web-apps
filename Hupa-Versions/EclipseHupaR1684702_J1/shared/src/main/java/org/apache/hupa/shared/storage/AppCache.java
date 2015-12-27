@@ -15,6 +15,8 @@ import com.google.inject.Inject;
 import com.google.web.bindery.autobean.shared.AutoBeanFactory;
 import com.google.web.bindery.requestfactory.shared.BaseProxy;
 
+/* This file has been changed by a member of the chair "Programmiersprachen und Uebersetzer" of the University of Tuebingen, Computer Science Departement*/
+
 /**
  * @author manolo
  */

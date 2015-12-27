@@ -16,6 +16,8 @@ package org.apache.hupa.client.ui;
  */
 //package com.google.gwt.sample.showcase.client.content.cell;
 
+/* This file has been changed by a member of the chair "Programmiersprachen und Uebersetzer" of the University of Tuebingen, Computer Science Departement*/
+
 import com.google.gwt.event.dom.client.ScrollEvent;
 import com.google.gwt.event.dom.client.ScrollHandler;
 import com.google.gwt.user.cellview.client.AbstractPager;

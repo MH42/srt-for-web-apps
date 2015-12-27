@@ -24,6 +24,9 @@
  * toolbar to be used with its RichTextArea widget.
 
  */
+
+/* This file has been changed by a member of the chair "Programmiersprachen und Uebersetzer" of the University of Tuebingen, Computer Science Departement*/
+
 package org.apache.hupa.widgets.editor;
 
 import org.apache.hupa.widgets.editor.FontPicker.FontPickerType;

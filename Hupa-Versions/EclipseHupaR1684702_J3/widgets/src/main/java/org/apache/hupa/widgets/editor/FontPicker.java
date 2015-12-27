@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations      *
  * under the License.                                           *
  ****************************************************************/
+
+/* This file has been changed by a member of the chair "Programmiersprachen und Uebersetzer" of the University of Tuebingen, Computer Science Departement*/
 /**
  * Much of this code has been taken from the GWT Showcase example
  * which is licensed under Apache License v2.0

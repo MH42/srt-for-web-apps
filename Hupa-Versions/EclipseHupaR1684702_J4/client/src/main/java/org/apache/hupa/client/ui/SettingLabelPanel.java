@@ -17,6 +17,8 @@
  * under the License.                                           *
  ****************************************************************/
 
+/* This file has been changed by a member of the chair "Programmiersprachen und Uebersetzer" of the University of Tuebingen, Computer Science Departement*/
+
 package org.apache.hupa.client.ui;
 
 import com.google.gwt.core.client.GWT;

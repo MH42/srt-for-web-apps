@@ -38,4 +38,4 @@ After you have downloaded both the tool and the scripts successfully, start Sele
 ## Logged CIDs
 If you don't want to run an instrumented version of Hupa in order to get the corresponding CIDs, you can use our CIDs which we have used during the evaluation. The CIDs for the revisions 1684702 and 1684470 are available as MySQL-dump-files (R1684702.sql and R1684470.sql) in this directory. 
 
-*Important note:* If you want to compare revision 1684702 with revision 1684470, you will have to load 1684470.sql in your MySQL database.
+**Important note:** If you want to compare revision 1684702 with revision 1684470, you will have to load 1684470.sql in your MySQL database.

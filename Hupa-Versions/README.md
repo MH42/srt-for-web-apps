@@ -1,7 +1,7 @@
 # Hupa
 
 ## Licence
-[Hupa](http://james.apache.org/hupa/index.html) has been published under [The Apache Software License, Version 2.0](james.apache.org/hupa/license.html)
+[Hupa](http://james.apache.org/hupa/index.html) has been published under [The Apache Software License, Version 2.0](http://james.apache.org/hupa/license.html)
 
 ## Hupa-versions
 

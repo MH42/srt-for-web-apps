@@ -43,7 +43,9 @@ Let P' be the current working copy of an Eclipse project and let P be the previo
 ## FAQ's
 
 1. 	`java.lang.ClassCastException: org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart cannot be cast to org.eclipse.ui.texteditor.ITextEditor`
+
 Please ensure that a java-file is opened in the editor. 
 Close the view <span style="font-variant: small-caps">GWTTestCaseSelection</span> and re-open it (menu Window -> Show view -> Other -> <span style="font-variant: small-caps">GWTTestCaseSelection</span>).
 2. There are no results after an analysis has been re-executed. Instead, an exception window occurred. 
+
 Please ensure that there is a java-file in the editor and put the focus on the editor itself (by clicking in the editor window), not on the view of the plug-in. Just repeat the analysis.

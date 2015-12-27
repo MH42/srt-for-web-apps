@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place
+END
+ContactPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/ContactPlace.java
+END
+FolderPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/FolderPlace.java
+END
+HupaPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/HupaPlace.java
+END
+SettingPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/SettingPlace.java
+END
+AbstractPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/AbstractPlace.java
+END
+DefaultPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/DefaultPlace.java
+END
+MessagePlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/MessagePlace.java
+END
+ComposePlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/client/src/main/java/org/apache/hupa/client/place/ComposePlace.java
+END

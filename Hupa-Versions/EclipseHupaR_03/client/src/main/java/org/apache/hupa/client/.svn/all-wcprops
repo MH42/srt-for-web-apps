@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/232/EclipseHupaR03/client/src/main/java/org/apache/hupa/client
+END
+HupaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaController.java
+END
+HupaConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaConstants.properties
+END
+HupaMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaMessages.java
+END
+HupaCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaCSS.java
+END
+HupaConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaConstants.java
+END
+HupaConstants_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaConstants_es.properties
+END
+Hupa.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/Hupa.java
+END
+HupaConstants_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/219/EclipseHupaR03/client/src/main/java/org/apache/hupa/client/HupaConstants_de.properties
+END

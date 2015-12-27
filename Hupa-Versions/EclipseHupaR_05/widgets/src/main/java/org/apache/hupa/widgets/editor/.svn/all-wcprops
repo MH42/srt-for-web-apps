@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor
+END
+ToolbarConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor/ToolbarConstants.java
+END
+Toolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor/Toolbar.java
+END
+FontPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor/FontPicker.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor/Editor.java
+END
+ColorPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/widgets/src/main/java/org/apache/hupa/widgets/editor/ColorPicker.java
+END

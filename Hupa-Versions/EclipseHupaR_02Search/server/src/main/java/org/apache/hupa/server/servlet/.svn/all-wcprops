@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/215/EclipseHupaR02/server/src/main/java/org/apache/hupa/server/servlet
+END
+UploadAttachmentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/215/EclipseHupaR02/server/src/main/java/org/apache/hupa/server/servlet/UploadAttachmentServlet.java
+END
+DownloadAttachmentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/215/EclipseHupaR02/server/src/main/java/org/apache/hupa/server/servlet/DownloadAttachmentServlet.java
+END
+MessageSourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/215/EclipseHupaR02/server/src/main/java/org/apache/hupa/server/servlet/MessageSourceServlet.java
+END

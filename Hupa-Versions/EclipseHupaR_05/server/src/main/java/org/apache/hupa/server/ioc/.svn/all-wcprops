@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc
+END
+GuiceWebModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/GuiceWebModule.java
+END
+GuiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/GuiceListener.java
+END
+IocRfServiceDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/IocRfServiceDecorator.java
+END
+IocRfServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/IocRfServiceLocator.java
+END
+IocRfServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/IocRfServlet.java
+END
+GuiceServerModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/ioc/GuiceServerModule.java
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/Settings.java
+END
+RenameFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/RenameFolderAction.java
+END
+DeleteMessageByUidAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/DeleteMessageByUidAction.java
+END
+DeleteMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/DeleteMessageAction.java
+END
+LogoutUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/LogoutUserAction.java
+END
+DeleteMessageResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/DeleteMessageResult.java
+END
+LogoutUserResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/LogoutUserResult.java
+END
+SendReplyMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/SendReplyMessageAction.java
+END
+MoveMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/MoveMessageAction.java
+END
+GenericResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/GenericResult.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/Tag.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/User.java
+END
+FetchMessagesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/FetchMessagesAction.java
+END
+FetchMessagesResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/FetchMessagesResult.java
+END
+SendForwardMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/SendForwardMessageAction.java
+END
+ImapFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/ImapFolder.java
+END
+SetFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/SetFlagAction.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/Message.java
+END
+GetMessageDetailsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/GetMessageDetailsAction.java
+END
+SmtpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/SmtpMessage.java
+END
+GetMessageDetailsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/GetMessageDetailsResult.java
+END
+MessageDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/MessageDetails.java
+END
+MailHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/MailHeader.java
+END
+GetMessageRawAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/GetMessageRawAction.java
+END
+DeleteFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/DeleteFolderAction.java
+END
+SendMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/SendMessageAction.java
+END
+GetMessageRawResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/GetMessageRawResult.java
+END
+CreateFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/CreateFolderAction.java
+END
+MessageAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/MessageAttachment.java
+END
+DeleteMessageAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/shared/src/main/java/org/apache/hupa/shared/domain/DeleteMessageAllAction.java
+END

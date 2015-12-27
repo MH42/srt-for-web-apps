@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils
+END
+ConfigurationProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils/ConfigurationProperties.java
+END
+SessionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils/SessionUtils.java
+END
+MessageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils/MessageUtils.java
+END
+SettingsDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils/SettingsDiscoverer.java
+END
+RegexPatterns.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/230/EclipseHupaR05/server/src/main/java/org/apache/hupa/server/utils/RegexPatterns.java
+END

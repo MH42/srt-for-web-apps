@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock
+END
+MockConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockConstants.java
+END
+MockLogProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockLogProvider.java
+END
+MockHttpSessionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockHttpSessionProvider.java
+END
+MockLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockLog.java
+END
+MockIMAPFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockIMAPFolder.java
+END
+MockHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockHttpSession.java
+END
+MockIMAPStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/eclipse-code-diff-testprojects/!svn/ver/222/EclipseHupaR04/mock/src/main/java/org/apache/hupa/server/mock/MockIMAPStore.java
+END

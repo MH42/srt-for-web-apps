@@ -1,7 +1,9 @@
-# Hupa-versions
+# Hupa
 
 ## Licence
 [Hupa](http://james.apache.org/hupa/index.html) has been published under [The Apache Software License, Version 2.0](james.apache.org/hupa/license.html)
+
+## Hupa-versions
 
 To evaluate open source tool [Hupa](http://james.apache.org/hupa/index.html), we have considered 13 pairs of versions. In total, we have selected 6 revisions of the Hupa repository including the most recent one to do our evaluation. In this directory, you will find 8 additional versions of Hupa that have been created by seeding errors in the Hupa code or by re-using code-snippets of some ancient Hupa revisions:
 - EclipseHupaR_02Search
